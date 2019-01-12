@@ -17,3 +17,5 @@ def buble_sort(lst):
             print ("Buble sort return", lst)
                                 
 buble_sort([2,1,4,9,6,5])
+
+#Output=[1,2,4,5,6,9]

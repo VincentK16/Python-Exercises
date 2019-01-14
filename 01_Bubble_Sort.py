@@ -1,3 +1,5 @@
+#Bubble Sort algorithm: http://interactivepython.org/runestone/static/pythonds/SortSearch/TheBubbleSort.html
+
 def buble_sort(lst):
     sorted=False
     while not sorted:
